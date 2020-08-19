@@ -1,0 +1,12 @@
+$intel-font-path: "../node_modules/it-mlaf-sass-bs4/fonts/" !default;
+@import "../node_modules/it-mlaf-sass-bs4/it-mlaf.scss";
+
+$breakpoints: (
+  small: 0px,
+  medium: 640px,
+  large: 1024px,
+  xlarge: 1280px,
+  xxlarge: 1440px,
+  xxxlarge: 1600px,
+  xxxxlarge: 1920px
+);
